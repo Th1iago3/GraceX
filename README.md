@@ -1,5 +1,3 @@
-Ótimo! Você quer uma **documentação** para esse script, que explique de forma organizada cada parte, certo?
-Vou estruturar como se fosse uma **documentação técnica** (README/documentação interna), explicando a lógica, os toggles, funções e interface gráfica.
 
 ---
 
