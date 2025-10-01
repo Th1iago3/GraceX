@@ -132,7 +132,7 @@ Atualiza `WalkSpeed` e `JumpPower` conforme sliders do menu.
 O script pode ser carregado remotamente com:
 
 ```lua
-loadstring(game:HttpGet("https://link-do-seu-script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Th1iago3/GraceX/refs/heads/main/gracex.lua"))()
 ```
 
 ---
